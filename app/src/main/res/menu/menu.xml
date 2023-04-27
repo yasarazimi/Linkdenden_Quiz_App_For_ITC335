@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/home"
+        android:title="Home"
+        android:icon="@drawable/home"/>
+    <item
+        android:id="@+id/network"
+        android:title="Network"
+        android:icon="@drawable/network"/>
+    <item
+        android:id="@+id/Post"
+        android:title="Post"
+        android:icon="@drawable/post"/>
+    <item
+        android:id="@+id/notification"
+        android:title="Notifications"
+        android:icon="@drawable/notifications"/>
+    <item
+        android:id="@+id/jobs"
+        android:title="Jobs"
+        android:icon="@drawable/job"/>
+
+
+</menu>
+
+
+
+
+
